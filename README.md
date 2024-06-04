@@ -66,4 +66,4 @@ This repository serves as a comprehensive resource for understanding and impleme
 
 ## License
 
-this project has an open source licence
+This project has an open source licence
